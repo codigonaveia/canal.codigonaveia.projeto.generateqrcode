@@ -1,0 +1,1 @@
+# canal.codigonaveia.projeto.generateqrcode
